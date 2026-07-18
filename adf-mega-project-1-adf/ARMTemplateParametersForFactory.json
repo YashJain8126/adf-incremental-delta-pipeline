@@ -1,0 +1,30 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "adf-mega-project-1-adf"
+		},
+		"ls_azuresql_password": {
+			"value": ""
+		},
+		"ls_datalake_accountKey": {
+			"value": ""
+		},
+		"ls_azuresql_properties_typeProperties_server": {
+			"value": "adf-mega-project1.database.windows.net"
+		},
+		"ls_azuresql_properties_typeProperties_database": {
+			"value": "adf_mega_project_1_db"
+		},
+		"ls_azuresql_properties_typeProperties_userName": {
+			"value": "adminyash"
+		},
+		"ls_datalake_properties_typeProperties_url": {
+			"value": "https://adfyashstorage.dfs.core.windows.net/"
+		},
+		"ls_github_properties_typeProperties_url": {
+			"value": "https://raw.githubusercontent.com/"
+		}
+	}
+}
