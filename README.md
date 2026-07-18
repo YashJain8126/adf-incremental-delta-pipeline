@@ -1,0 +1,1 @@
+# adf-incremental-delta-pipeline
