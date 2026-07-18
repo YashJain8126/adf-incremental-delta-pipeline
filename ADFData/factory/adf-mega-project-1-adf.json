@@ -1,0 +1,15 @@
+{
+	"name": "adf-mega-project-1-adf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a912abc9-e807-4bea-9771-1355e262e284",
+		"tenantId": "9991671c-05c8-409e-8d16-c9bbd64a93ec"
+	}
+}

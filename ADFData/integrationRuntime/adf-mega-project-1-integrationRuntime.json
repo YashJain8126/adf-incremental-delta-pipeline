@@ -1,0 +1,6 @@
+{
+	"name": "adf-mega-project-1-integrationRuntime",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
